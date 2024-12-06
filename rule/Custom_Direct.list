@@ -1,0 +1,21 @@
+# NAME: Custom_Direct
+
+# ImmortalWrt 在线更新服务
+DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
+# ImmortalWrt 软件仓库
+DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,vsean.net
+# OpenWrt AI 站点
+DOMAIN-SUFFIX,openwrt.ai
+# 蓝点网
+DOMAIN-SUFFIX,landiannews.com
+DOMAIN-SUFFIX,lancdn.com
+# PT 下载相关
+DOMAIN-KEYWORD,tracker
+# 卡巴斯基
+DOMAIN-SUFFIX,kaspersky.com
+DOMAIN-SUFFIX,kaspersky.com.cn
+DOMAIN-SUFFIX,kaspersky-labs.com
+# 视频网站
+DOMAIN-SUFFIX,ijujitv.cc
+DOMAIN-SUFFIX,jujizy.com
