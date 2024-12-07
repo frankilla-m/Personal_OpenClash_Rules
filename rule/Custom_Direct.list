@@ -1,5 +1,7 @@
 # NAME: Custom_Direct
 
+# ImmortalWrt 在线更新服务
+DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 # ImmortalWrt 软件仓库
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,vsean.net
