@@ -21,4 +21,4 @@ DOMAIN-SUFFIX,ijujitv.cc
 DOMAIN-SUFFIX,jujizy.com
 # SSL申请证书
 DOMAIN-SUFFIX,letsencrypt.org
-DOMAIN,api.ipify.org
+DOMAIN-SUFFIX,api.ipify.org
