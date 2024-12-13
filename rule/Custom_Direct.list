@@ -19,3 +19,5 @@ DOMAIN-SUFFIX,kaspersky-labs.com
 # 视频网站
 DOMAIN-SUFFIX,ijujitv.cc
 DOMAIN-SUFFIX,jujizy.com
+# SSL申请证书
+DOMAIN-SUFFIX,letsencrypt.org
