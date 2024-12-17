@@ -17,4 +17,5 @@ DOMAIN-SUFFIX,kaspersky.com
 DOMAIN-SUFFIX,kaspersky.com.cn
 DOMAIN-SUFFIX,kaspersky-labs.com
 # 证书申请
+DOMAIN-SUFFIX,letsencrypt.org
 IP-CIDR,172.65.32.248/32,no-resolve
