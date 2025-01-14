@@ -20,3 +20,6 @@ DOMAIN-SUFFIX,kaspersky-labs.com
 DOMAIN-SUFFIX,dandanju.tv
 DOMAIN-SUFFIX,lookbook.top
 DOMAIN-SUFFIX,bulkcdn.top
+# Bitwarden
+DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,bitwarden.net
