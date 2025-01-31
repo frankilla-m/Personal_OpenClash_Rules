@@ -1,8 +1,6 @@
 # NAME: Custom_Proxy
 # 强制代理列表，来自个人收集
 
-# EA Desktop 云同步
-#DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
 # V2ex
 DOMAIN-SUFFIX,v2ex.com
 # Google Play
