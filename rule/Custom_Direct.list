@@ -23,3 +23,6 @@ DOMAIN-SUFFIX,bulkcdn.top
 # Bitwarden
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,bitwarden.net
+# DDNS
+DOMAIN-SUFFIX,asuscomm.com
+DOMAIN-SUFFIX,ddns.net
