@@ -35,3 +35,5 @@ DOMAIN-SUFFIX,darkroom.net
 DOMAIN-SUFFIX,koukoutu.com
 # 土区
 DOMAIN-SUFFIX,oyunfor.com
+@ Debian 
+DOMAIN-SUFFIX,debian.org
