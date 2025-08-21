@@ -33,7 +33,5 @@ DOMAIN-SUFFIX,codecguide.com
 DOMAIN-SUFFIX,darkroom.net
 # 抠图网站
 DOMAIN-SUFFIX,koukoutu.com
-# 土区
-DOMAIN-SUFFIX,oyunfor.com
 @ Debian 
 DOMAIN-SUFFIX,debian.org
