@@ -31,5 +31,7 @@ DOMAIN-SUFFIX,codecguide.com
 DOMAIN-SUFFIX,darkroom.net
 # 抠图网站
 DOMAIN-SUFFIX,koukoutu.com
-@ Debian 
+# Debian 
 DOMAIN-SUFFIX,debian.org
+# DeepL
+DOMAIN-SUFFIX,deepl.com
