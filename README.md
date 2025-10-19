@@ -1,7 +1,7 @@
 # 纯主观向 OpenClash 订阅转换模板
 
 ```
-https://raw.githubusercontent.com/Frankilla-M/Personal_OpenClash_Rules/main/cfg/Personal_Clash.ini
+https://raw.githubusercontent.com/frankilla-m/Personal_OpenClash_Rules/main/cfg/Personal_Clash.ini
 ```
 
 OpenClash 设置教程 [Aethersailor](https://github.com/Aethersailor/Custom_OpenClash_Rules)  
