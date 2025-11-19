@@ -37,3 +37,5 @@ DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,deepl.com
 # 铜钟
 DOMAIN-SUFFIX,whamon.com
+# Cloudflare
+DOMAIN-SUFFIX,cloudflare.com
