@@ -1,4 +1,4 @@
-# 纯主观向 OpenClash 订阅转换模板
+# 私人向 OpenClash 订阅转换模板
 
 ```
 https://raw.githubusercontent.com/frankilla-m/Personal_OpenClash_Rules/main/cfg/Personal_Clash.ini
