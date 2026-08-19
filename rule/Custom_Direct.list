@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,landiannews.com
 DOMAIN-SUFFIX,lancdn.com
 # PT 下载相关
 DOMAIN-KEYWORD,tracker
+DOMAIN-SUFFIX,bitcomet.com
 # 卡巴斯基
 DOMAIN-SUFFIX,kaspersky.com
 DOMAIN-SUFFIX,kaspersky.com.cn
