@@ -42,3 +42,9 @@ DOMAIN-SUFFIX,whamon.com
 DOMAIN-SUFFIX,p114.com
 DOMAIN-SUFFIX,trywor.com
 DOMAIN-SUFFIX,owlphoto.com
+# CDN
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,akamaized.net
+# NTP Pool Project
+DOMAIN-SUFFIX,pool.ntp.org
