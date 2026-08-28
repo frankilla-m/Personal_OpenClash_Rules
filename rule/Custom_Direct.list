@@ -48,5 +48,3 @@ DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,akamaized.net
 # NTP Pool Project
 DOMAIN-SUFFIX,pool.ntp.org
-# 外国网盘
-DOMAIN-SUFFIX,gofile.io
