@@ -47,3 +47,5 @@ DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,akamaized.net
 # NTP Pool Project
 DOMAIN-SUFFIX,pool.ntp.org
+#
+DOMAIN-SUFFIX,vul7.com
